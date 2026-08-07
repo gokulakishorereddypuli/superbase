@@ -1,0 +1,21 @@
+employee_id,first_name,last_name,email,hire_date,job_title,salary,is_active,staged_at
+1,David,Miller,david.miller@example.com,2022-03-14,DevOps Engineer,98000.00,true,2026-07-21 12:22:20.754745
+2,Sophia,Wilson,sophia.wilson@example.com,2023-08-19,Product Manager,110000.00,true,2026-07-21 12:22:20.754745
+3,James,Taylor,james.taylor@example.com,2020-11-05,Senior Developer,125000.00,true,2026-07-21 12:22:20.754745
+4,Olivia,Martinez,olivia.martinez@example.com,2024-01-10,Data Scientist,105000.00,true,2026-07-21 12:22:20.754745
+5,Robert,Anderson,robert.anderson@example.com,2019-04-23,IT Director,145000.00,true,2026-07-21 12:22:20.754745
+6,Isabella,Thomas,isabella.thomas@example.com,2023-05-17,HR Specialist,68000.00,true,2026-07-21 12:22:20.754745
+7,William,Jackson,william.jackson@example.com,2021-09-01,Systems Administrator,82000.00,true,2026-07-21 12:22:20.754745
+8,Mia,White,mia.white@example.com,2025-02-14,Junior Frontend Developer,60000.00,true,2026-07-21 12:22:20.754745
+9,Lucas,Harris,lucas.harris@example.com,2022-07-30,Security Engineer,112000.00,true,2026-07-21 12:22:20.754745
+10,Emma,Martin,emma.martin@example.com,2023-12-01,Marketing Coordinator,64000.00,false,2026-07-21 12:22:20.754745
+1031,David,Miller,david.miller@example.com,2022-03-14,DevOps Engineer,98000.00,true,2026-07-31 08:44:10.728906
+1032,William,Jackson,william.jackson@example.com,2021-09-01,Systems Administrator,82000.00,true,2026-07-31 08:44:10.728906
+1033,James,Taylor,james.taylor@example.com,2020-11-05,Senior Developer,125000.00,true,2026-07-31 08:44:10.728906
+1034,Lucas,Harris,lucas.harris@example.com,2022-07-30,Security Engineer,112000.00,true,2026-07-31 08:44:10.728906
+1035,Sophia,Wilson,sophia.wilson@example.com,2023-08-19,Product Manager,110000.00,true,2026-07-31 08:44:10.728906
+1036,Emma,Martin,emma.martin@example.com,2023-12-01,Marketing Coordinator,64000.00,false,2026-07-31 08:44:10.728906
+1037,Robert,Anderson,robert.anderson@example.com,2019-04-23,IT Director,145000.00,true,2026-07-31 08:44:10.728906
+1038,Olivia,Martinez,olivia.martinez@example.com,2024-01-10,Data Scientist,105000.00,true,2026-07-31 08:44:10.728906
+1039,Isabella,Thomas,isabella.thomas@example.com,2023-05-17,HR Specialist,68000.00,true,2026-07-31 08:44:10.728906
+1040,Mia,White,mia.white@example.com,2025-02-14,Junior Frontend Developer,60000.00,true,2026-07-31 08:44:10.728906
